@@ -22,7 +22,7 @@
     "url": "https://github.com/Maurof18/FestivalMusica/issues"
   },
   "homepage": "https://github.com/Maurof18/FestivalMusica#readme",
-  "dependencies": {
+  "devDependencies": {
     "gulp": "^4.0.2"
   }
 }
